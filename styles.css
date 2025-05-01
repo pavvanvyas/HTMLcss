@@ -1,0 +1,22 @@
+h1 {
+  color: blue;
+}
+#square {
+  height: 500px;
+  width: 500px;
+  position: static;
+  background-color: blue;
+}
+#circle {
+  border-radius: 50%;
+  height: 500px;
+  width: 500px;
+  background-color: red;
+}
+h1 {
+  color: blue;
+  font-color: red;
+}
+h2 {
+  color: purple;
+}
